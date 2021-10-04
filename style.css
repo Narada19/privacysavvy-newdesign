@@ -90,7 +90,7 @@ a
     position: absolute;
     width: 255px;
     height: 315px;
-    left: 1001px;
+    left: 924px;
     top: 420px;
     background: #FFFFFF;
     opacity: 60%;
@@ -571,13 +571,13 @@ a
 {
 
     display: flex;
-    margin-left: 63px;
+    margin-left: 3px;
 }
 
 
 .sharet
 {
-    margin-left: 60px;
+    
     font-size: 28px;
     font-family: Mulish;
     font-weight: 700;
@@ -587,7 +587,7 @@ a
 
 .top1
 {
-    margin-left: 45px;
+    margin-top:20px;
     font-size: 28px;
     font-family: Mulish;
     font-weight: 700;
@@ -612,8 +612,8 @@ a
 
 .rep
 {
-    margin-left: 58px;
-    padding: 6px;
+    margin-left: -2px;
+    padding: 10px;
 }
 
 
@@ -1082,10 +1082,17 @@ top: 0px;
     display: flex;
 }
 
+.oranp2
+{
+    background: #FFECE0;
+    padding: 28px 0px 28px;
+    display: flex;
+}
+
 .whitep
 {
     background: #FFFFFF;
-    height: 400px;
+    height: 437px;
     margin-top: -9px;
     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.05);
 }
@@ -1101,6 +1108,14 @@ top: 0px;
     margin-left: 30px;
     padding-left: 111px;
     padding-right: 141px;
+    border-radius: 11px;
+}
+
+.buttonpriscore
+{
+    margin-left: 33px;
+    padding-left: 90px;
+    padding-right: 109px;
     border-radius: 11px;
 }
 
@@ -1122,6 +1137,17 @@ top: 0px;
     padding-right: 0px;
     margin-left: 71px;
     margin-right: 91px;
+}
+
+
+.orprivacysearch
+{
+    background: #FEF6F1;
+    border-radius: 8px;
+    padding-left: 19px;
+    padding-right: 0px;
+    margin-left: 48px;
+    margin-right: 63px;
 }
 
 
@@ -1229,8 +1255,8 @@ top: 0px;
 
 .square3
 {
-    margin-left: -86px;
-    margin-top: 5px;
+    margin-left: 73px;
+    margin-top: 20px;
 }
 
 
@@ -1458,4 +1484,15 @@ a
     
     box-sizing: border-box;
     border-radius: 8px;
+}
+
+.spasearchpr
+{
+    margin-right: -258px;
+}
+
+.blogsearchpr
+{
+    margin-top: 19px;
+    margin-left: -3px;
 }
