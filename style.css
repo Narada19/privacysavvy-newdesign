@@ -633,16 +633,22 @@ a
 
 
 input.botext {
-    margin-left: 65px;
-    padding: 9px 236px 8px 20px;
+    margin-left: 62px;
+    padding: 9px 185px 8px 20px;
     border-radius: 10px;
 }
 
 input.botext2 {
     border: 1px solid #BDBDBD;
     margin-left: 180px;
-    padding: 9px 198px 8px 20px;
+    padding: 9px 234px 8px 20px;
     border-radius: 10px;
+}
+
+
+.readmore
+{
+    margin-top: -47px;
 }
 
 input.botextds {
@@ -815,7 +821,7 @@ th.cell1 {
     position: absolute;
     width: 99.22px;
     height: 40px;
-    left: 800px;
+    left: 721px;
     margin-top: -35px;
     background: #27AE60;
     color: white !important;
@@ -1495,4 +1501,127 @@ a
 {
     margin-top: 19px;
     margin-left: -3px;
+}
+
+
+h3tag
+{
+    font-size: 1.17em ;
+    font-weight: bolder;
+}
+
+
+h2tag
+{
+    font-size: 1.5em;
+     font-weight: bolder;
+}
+
+
+.topvpnsearch
+{
+    display: inline-flex;
+}
+
+
+.greencvpn
+{
+    margin-right: 11px;
+}
+
+
+.imglogotop
+{
+    font-weight:400;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+
+.contaborder
+{
+    background: #FFECE0;
+    opacity: 0.5;
+    border-radius: 8px;
+}
+
+.conpara2
+{
+    margin-left: -3px;
+    margin-top: 16px;
+    padding: 8px 0px 17px 18px;
+}
+
+
+
+
+.conflex
+{
+    display: flex;
+}
+
+
+.conlogo
+{
+    font-size: 29px;
+    margin-block: auto;
+    margin-left: 27px;
+}
+
+
+
+h3tag,
+h2tag
+{
+    font-family: Mulish;
+}
+
+
+p
+{
+    font-family: Inter;
+}
+
+
+.slideprivacy
+{
+    margin-left: 73px;
+    margin-top: 12px;
+    margin-bottom: 22px;
+}
+
+
+.slideleft
+{
+    margin-left: 27px;
+}
+
+.slideorange
+{
+    color: #F2994A;
+}
+
+
+.contable
+{
+    position: absolute;
+    padding-left: 22px;
+    width: 339px;
+    height: 865px;
+    left: 982px;
+    top: 487px;
+    background: #FFFFFF;
+    opacity: 60%;
+    box-shadow: 0px 10px 20px rgb(0 0 0 / 5%);
+    background-image: url(https://cdn-bmajg.nitrocdn.com/QwcSUyPTJhyDNCWifLAXTrEUsQAUUjEH/assets/static/optimized/rev-8ea769a/wp-content/themes/ps-theme/static/fingerprint-grey.svg);
+    background-size: 226px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.blogcontent
+{
+    margin-top: 20px;
+    margin-left: -15px;
 }
